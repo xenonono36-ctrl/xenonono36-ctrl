@@ -103,7 +103,3 @@
 <div align="center">
   <img height="20" src="https://komarev.com/ghpvc/?username=xenonono36-ctrl&color=blue&style=flat" alt="Profile Views" /> <a href="https://buymeacoffee.com/ranitmanik"><img height="20" alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 </div>
-
-<div align="center">
-  <img height="20" src="[https://komarev.com/ghpvc/?username=xenonono36-ctrl&color=blue&style=flat](https://camo.githubusercontent.com/b4a31ad6a3576c2b2671919803166ecdb47e38dbac6faaee281cafd2f0bcfce7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d31322c32302c3234266865696768743d3134302673656374696f6e3d666f6f74657226746578743d5468616e6b73253230666f722532307669736974696e672126666f6e74436f6c6f723d41373842464126666f6e7453697a653d3238)" alt="Profile Views" /> <a href="https://buymeacoffee.com/ranitmanik"><img height="20" alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
-</div>
