@@ -5,7 +5,7 @@
 
 # Hi👋, I'm [Md. Tanvir Rahman Hridoy](https://github.com/xenonono36-ctrl)
 
-### An undergrad student in Software Engineering
+### An undergrad student in Software Engineering.
 
 - 🔭 Currently working on **Different Projects**.
 - 🏫 Pursuing a Bsc. in Software Engineering at [**Islamic University of Technology \(IUT\)**](https://www.iutoic-dhaka.edu/).
