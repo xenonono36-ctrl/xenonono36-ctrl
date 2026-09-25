@@ -10,7 +10,7 @@
 - 🔭 Currently working on **Different Projects**.
 - 🏫 Pursuing a Bsc. in Software Engineering at [**Islamic University of Technology \(IUT\)**](https://www.iutoic-dhaka.edu/).
 - 📧 Reach me via [**Email**](mailto:xenonono36%40gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/tanvir-rahman822/).
-- 📍 Based in **Dhaka ,Bangladesh**.
+- 📍 Based in **Dhaka ,Bangladesh**.  
 
 <hr>
 
