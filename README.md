@@ -1,5 +1,5 @@
 <br />
-<div align="center">
+<div align="center"> 
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_2.png"  alt="Demo GIF" width="6000px" />
 </div>
 
