@@ -14,7 +14,7 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>  
 
 <div width="100%" align="center">
   <picture>
